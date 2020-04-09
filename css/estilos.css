@@ -32,6 +32,9 @@ body {
     text-align: center;
     width: 100%;
 }
+#navbar a:hover{
+    border: 1px solid white;
+}
 #banner-main img{
     width: 100%;
 }
@@ -49,7 +52,12 @@ body {
     padding: 2%;
     margin: 1%;
     border-radius: 15px;
+    transition: 0.5s;
+}
+.product-card:hover{
     box-shadow: gray 3px 3px 6px;
+    background-color: #F4F4F4;
+    transition: 0.5s;
 }
 .product-card img{
     width: 80%;
