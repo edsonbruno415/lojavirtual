@@ -1,3 +1,3 @@
 # Loja Virtual
 
-Website build from Gama Experience Course.
+Website created in the Gama Experience course.
